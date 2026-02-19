@@ -1,3 +1,11 @@
+<a href="https://crawlbase.com/signup?utm_source=github&utm_medium=readme&utm_campaign=crawling_api_banner" target="_blank">
+  <img src="https://github.com/user-attachments/assets/afa4f6e7-25fb-442c-af2f-b4ddcfd62ab2" 
+       alt="crawling-api-cta" 
+       style="max-width: 100%; border: 0;">
+</a>
+
+We invite you to explore our [blog](https://crawlbase.com/blog/difference-between-vpn-and-ai-proxy/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
+
 # Crawlbase Smart AI Proxy Examples
 
 This folder contains Python examples demonstrating how to use [Crawlbase Smart AI Proxy](https://crawlbase.com/docs/smart-proxy/) to scrape websites like Amazon.com with various configurations.
